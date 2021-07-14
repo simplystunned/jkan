@@ -1,12 +1,12 @@
 ---
 schema: default
-title: Sample dataset
-organization: Sample Department
+title: Garbage and Recycling Schedule 2021
+organization: Department of Works and Engineering
 notes: This is an example dataset that comes with a new installation of JKAN
 resources:
-  - name: Air Monitoring Stations CSV
-    url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.csv'
-    format: csv
+  - name: Garbage and Recycling Schedule 2021 PDF
+    url: 'https://www.gov.bm/sites/default/files/Garbage%20and%20Recycling%20Schedule%202021.pdf'
+    format: pdf
   - name: Air Monitoring Stations Shapefile
     url: 'http://data.phl.opendata.arcgis.com/datasets/1839b35258604422b0b520cbb668df0d_0.zip'
     format: shp
