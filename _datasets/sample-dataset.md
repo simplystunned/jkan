@@ -2,7 +2,7 @@
 schema: default
 title: Garbage and Recycling Schedule 2021
 organization: Department of Works and Engineering
-notes: This is an example dataset that comes with a new installation of JKAN
+notes: This is the dataset for the sechedule of when the Deptment will make collections in 2021
 resources:
   - name: Garbage and Recycling Schedule 2021 PDF
     url: 'https://www.gov.bm/sites/default/files/Garbage%20and%20Recycling%20Schedule%202021.pdf'
