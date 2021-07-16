@@ -10,7 +10,7 @@ resources:
   - name: Machine readable Garbage and Recycling Schedule 2021
     url: 'https://bmtrashdayapi.deta.dev/'
     format: api
-license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
+license: Creative Commons Attribution
 category:
   - Health / Human Services
 maintainer: Simply Stunned 
