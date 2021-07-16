@@ -4,10 +4,10 @@ title: Garbage and Recycling Schedule 2021
 organization: Department of Works and Engineering
 notes: This is the dataset for the sechedule of when the Department will make collections in 2021
 resources:
-  - name: Garbage and Recycling Schedule 2021 PDF
+  - name: Printable Garbage and Recycling Schedule 2021
     url: 'https://www.gov.bm/sites/default/files/Garbage%20and%20Recycling%20Schedule%202021.pdf'
     format: pdf
-  - name: Garbage and Recycling Schedule 2021 API
+  - name: Machine readable Garbage and Recycling Schedule 2021
     url: 'https://bmtrashdayapi.deta.dev/'
     format: api
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
